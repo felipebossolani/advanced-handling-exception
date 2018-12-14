@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "advanced-handling-exception", "advanced-handling-exception\advanced-handling-exception.csproj", "{8B5048DF-4B01-4BF0-80F4-22849198375C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B5048DF-4B01-4BF0-80F4-22849198375C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B5048DF-4B01-4BF0-80F4-22849198375C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B5048DF-4B01-4BF0-80F4-22849198375C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B5048DF-4B01-4BF0-80F4-22849198375C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37FFF0EA-DA49-4CEE-B677-A5DA6B9EB4C5}
+	EndGlobalSection
+EndGlobal
